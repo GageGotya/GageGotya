@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Gage Ayala
 
-🎯 **Cybersecurity Analyst | Future Red Teamer | Bug Bounty Enthusiast
+🎯 Cybersecurity Analyst | Future Red Teamer | Bug Bounty Hunter | Hologram Tech Enthusiast
 
 ---
 
