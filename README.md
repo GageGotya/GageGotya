@@ -12,37 +12,43 @@
 
 ---
 
-### 🧰 Tech Stack
+## 🧰 Tech Stack
 
-#### 🖥️ Offensive Security & Recon
-![Nmap](https://img.shields.io/badge/Nmap-218bff?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-ff6600?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-ff4757?style=for-the-badge)
-![Impacket](https://img.shields.io/badge/Impacket-3776AB?style=for-the-badge)
-![BloodHound](https://img.shields.io/badge/BloodHound-5A5A5A?style=for-the-badge)
+### 🛡 Offensive Security & Recon  
+![Nmap](https://img.shields.io/badge/NMAP-005FAD?style=for-the-badge&logo=nmap&logoColor=white)  
+![Burp Suite](https://img.shields.io/badge/BURP%20SUITE-FF6F00?style=for-the-badge&logo=burpsuite&logoColor=white)  
+![Metasploit](https://img.shields.io/badge/METASPLOIT-E91E63?style=for-the-badge&logo=metasploit&logoColor=white)  
+![Gobuster](https://img.shields.io/badge/GOBUSTER-0078D4?style=for-the-badge&logo=ghostery&logoColor=white)  
+![Nessus](https://img.shields.io/badge/NESSUS-00457C?style=for-the-badge&logo=tenable&logoColor=white)
 
-#### 🧠 Automation & Scripting
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+### 🧠 Automation & Scripting  
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Bash](https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
+![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)  
+![Ansible](https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white)  
+![Terraform](https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
-#### 🖧 Networking & Infrastructure
-![OPNsense](https://img.shields.io/badge/OPNsense-EF820D?style=for-the-badge)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-003087?style=for-the-badge)
-![Netcat](https://img.shields.io/badge/Netcat-000000?style=for-the-badge)
+### 🖧 Networking & Infrastructure  
+![OPNsense](https://img.shields.io/badge/OPNsense-FE5000?style=for-the-badge&logo=openbsd&logoColor=white)  
+![VMware](https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=vmware&logoColor=white)  
+![Wireshark](https://img.shields.io/badge/WIRESHARK-0066CC?style=for-the-badge&logo=wireshark&logoColor=white)  
+![WireGuard](https://img.shields.io/badge/WIREGUARD-88171A?style=for-the-badge&logo=wireguard&logoColor=white)  
+![HAProxy](https://img.shields.io/badge/HAPROXY-000000?style=for-the-badge&logo=haproxy&logoColor=white)
 
-#### 🔧 DevOps & Monitoring
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+### 🔧 DevOps & Monitoring  
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Elastic SIEM](https://img.shields.io/badge/ELASTIC%20SIEM-005571?style=for-the-badge&logo=elastic&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/KUBERNETES-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)  
+![Snort](https://img.shields.io/badge/SNORT-DA1C5C?style=for-the-badge&logo=snort&logoColor=white)
 
-#### 🤖 AI & Bot Integration
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Discord API](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Telegram Bot API](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+### 🤖 AI & Bot Integration  
+![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
+![Discord](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)  
+![Telegram](https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)  
+![Google API](https://img.shields.io/badge/GOOGLE%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)  
+![Meta Glasses](https://img.shields.io/badge/META%20GLASSES-1D9BF0?style=for-the-badge&logo=meta&logoColor=white)
+
 
 ---
 
