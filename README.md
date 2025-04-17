@@ -79,7 +79,7 @@
 
 ## 🔐 Current TryHackMe Stats
 
-* Section Coming Soon *
+<img src="https://tryhackme-badges.s3.amazonaws.com/GageGotya.png" alt="Your Image Badge" />
 
 ---
 
