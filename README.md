@@ -77,6 +77,12 @@
 
 ---
 
+## 🔐 Current TryHackMe Stats
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/GageGotya.png)
+
+---
+
 ### 📫 Let’s Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GageAyala-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gage-ayala-0207b42ab/)  
 📬 [Email Me](mailto:Gageatx95@gmail.com)  
