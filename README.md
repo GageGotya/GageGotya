@@ -63,7 +63,7 @@
 ---
 
 ### 🧪 Currently Building
-- 🧠 [**G.E.N.G.A.R.**] – Multi-Modular AI-powered cybersecurity assistant
+- 🧠 [**G.E.N.G.A.R.**] – A Multi-Modular AI-powered cybersecurity assistant
 - 🖧 Full home network with VLAN segmentation + secure remote access
 - 📡 New ideas for Hologram tech
 
