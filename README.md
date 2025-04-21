@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Gage Ayala
 
-🎯 CIO at Black Tower Consulting Group | Red Teamer | Bug Bounty Hunter | Hologram Tech Enthusias
+🎯 CIO at Black Tower Consulting Group | Red Teamer | Bug Bounty Hunter | Hologram Tech Enthusiast
 
 ---
 
