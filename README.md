@@ -55,7 +55,7 @@
   <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   <img src="https://img.shields.io/badge/STRIPE-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
-  <img src="https://img.shields.io/badge/VERCEL-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/VERCEL-000000.png?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/META%20GLASSES-1D9BF0?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
