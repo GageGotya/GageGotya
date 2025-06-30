@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Gage Ayala
+# 👋 Hey there, I'm Gage Ayala
 
 🎯 CIO at Black Tower Consulting Group | Red Teamer | Bug Bounty Hunter | Hologram Tech Enthusiast
 
@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/BASH-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
   <img src="https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/ANSIBLE-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
-  <img src="https://img.shields.io/badge/TERRAFORM-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JENKINS-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </p>
 
 <h3>🖧 Networking & Infrastructure</h3>
@@ -37,8 +37,8 @@
   <img src="https://img.shields.io/badge/OPNsense-FE5000?style=for-the-badge&logo=openbsd&logoColor=white" />
   <img src="https://img.shields.io/badge/VMWARE-607078?style=for-the-badge&logo=vmware&logoColor=white" />
   <img src="https://img.shields.io/badge/WIRESHARK-0066CC?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/WIREGUARD-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/HAPROXY-000000?style=for-the-badge&logo=haproxy&logoColor=white" />
+  <img src="https://img.shields.io/badge/CISCO-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/PFSENSE-212121?style=for-the-badge&logo=pfsense&logoColor=white" />
 </p>
 
 <h3>🔧 DevOps & Monitoring</h3>
@@ -54,8 +54,8 @@
 <p>
   <img src="https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  <img src="https://img.shields.io/badge/GOOGLE%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   <img src="https://img.shields.io/badge/META%20GLASSES-1D9BF0?style=for-the-badge&logo=meta&logoColor=white" />
 </p>
 
@@ -63,17 +63,17 @@
 ---
 
 ### 🧪 Currently Building
-- 🧠 [**G.E.N.G.A.R.**] – A Multi-Modular AI-powered cybersecurity assistant
-- 🖧 Full home network with VLAN segmentation + secure remote access
-- 📡 New ideas for Hologram tech
+- 📱 [**EZPost**] – AI-powered social media automation platform for businesses
+- 🖧 Ultimate cyber home lab with advanced network segmentation and monitoring
+- 🔐 Enterprise-grade security infrastructure with threat detection
 
 ---
 
 ### 🌱 Currently Learning
-- Active Directory & Windows Hardening
-- Advanced Linux Privilege Escalation
-- AI Integration for Security Automation
-- Hologram Technology and Integration
+- AI-powered cybersecurity automation and threat detection
+- Advanced machine learning for security analytics
+- Zero-trust network architecture and implementation
+- Cloud-native security and DevSecOps practices
 
 ---
 
@@ -83,13 +83,13 @@
 
 ---
 
-### 📫 Let’s Connect
+### 📫 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-GageAyala-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/gage-ayala-0207b42ab/)  
 📬 [Email Me](mailto:Gageatx95@gmail.com)  
 💬 DM me if you want to team up for a CTF or just geek out over red team tactics.
 
 ---
 
-> “The quieter you become, the more you can hear.” – Ram Dass  
+> "The quieter you become, the more you can hear." – Ram Dass  
 > _Also a great tip for packet sniffing..._
 
