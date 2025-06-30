@@ -5,8 +5,8 @@
 ---
 
 ### 🛠️ What I Do
-- 🔐 Specialize in offensive security & penetration testing
-- 🧠 VP of the CyberSec Club at ACC
+- 🔐 Specialize in offensive security, penetration testing, and Networking
+- 🧠 Was a founding member of the CyberSec Club at ACC
 - 💥 Compete in CTFs and break stuff for fun (and knowledge)
 - ⚙️ Currently building an AI-powered assistant similair to J.A.R.V.I.S from Iron Man
 
