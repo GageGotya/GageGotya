@@ -5,8 +5,8 @@
 ---
 
 ### 🛠️ What I Do
-- 🔐 Specialize in offensive security, penetration testing, and Networking
-- 🧠 Was a founding member of the CyberSec Club at ACC
+- 🔐 Specialize in Ethical Hacking, Computer Forensics, and Networking
+- 🧠 President of the CyberSec Club at ACC
 - 💥 Compete in CTF Competitions monthly and usually score in the top 10 percent or higher
 - ⚙️ Currently building a Social Media Service with AI automation for personal or business use
 
